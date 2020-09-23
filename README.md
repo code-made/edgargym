@@ -1,1 +1,1 @@
-# edgar-gym
+# edgargym
