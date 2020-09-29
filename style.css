@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+
+body {
+	background-color: black;
+}
+
+h1 {
+	font-family: 'Rye', cursive;
+}
+
+/*remove fb tw links*/
+.crt-post-share {
+	display: none;
+}
+
+/*NOT NEEDED, JUST USE GRID LAYOUT FROM CURATOR*/
+/*.crt-post-header {
+	visibility: hidden !important;
+	display: none;
+	font-size: 5em;
+	border: 10px solid red;
+}
+
+.crt-post-title {
+	visibility: hidden !important;
+	display: none;
+	font-size: 5em;
+	border: 10px solid red;
+}
+
+.crt-post-text {
+	visibility: hidden !important;
+	display: none;
+	font-size: 5em;
+	border: 10px solid red;
+}
+
+.crt-post-footer {
+	visibility: hidden !important;
+	display: none;
+	font-size: 5em;
+	border: 10px solid red;
+}
+
+#feed {
+	border: 1px solid black;
+	width: 75%;
+	margin: 0 auto;
+}
+
+div.crt-post.crt-post-has-image.crt-post-has-text.crt-post-instagram.crt-hide-user-image {
+	margin: 0 !important;
+	padding: 0;
+}*/
+
+/*crt-post crt-post-has-image crt-post-has-text crt-post-instagram crt-hide-user-image*/
